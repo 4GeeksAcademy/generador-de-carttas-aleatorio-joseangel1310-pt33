@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.corazon {
+  font-size: 80px;
+}
+
+.valor {
+  font-size: 130px;
+}
